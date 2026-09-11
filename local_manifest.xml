@@ -56,7 +56,7 @@
     <project
         path="vendor/sony/dolby"
         name="vendor_sony_dolby"
-        remote="manipvlator"
+        remote="Aciss21"
         revision="16" />
 
     <project
