@@ -10,20 +10,20 @@
         path="device/xiaomi/courbet"
         name="device_xiaomi_courbet"
         remote="Aciss21"
-        revision="16" />
+        revision="17" />
 
     <project
         path="device/xiaomi/sm6150-common"
         name="device_xiaomi_sm6150-common"
         remote="Aciss21"
-        revision="16.2" />
+        revision="17" />
 
     <!-- Vendor -->
     <project
         path="vendor/xiaomi/sm6150-common"
         name="vendor_xiaomi_sm6150-common"
         remote="Aciss21"
-        revision="16.2" />
+        revision="17" />
 
     <project
         path="vendor/xiaomi/courbet"
