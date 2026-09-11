@@ -16,7 +16,7 @@
         path="device/xiaomi/sm6150-common"
         name="device_xiaomi_sm6150-common"
         remote="Aciss21"
-        revision="16" />
+        revision="16.2" />
 
     <!-- Vendor -->
     <project
