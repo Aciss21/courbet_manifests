@@ -46,7 +46,12 @@
         revision="16" />
 
     <!-- Kernel -->
-
+    <project
+        path="kernel/xiaomi/sm6150"
+        name="kernel_xiaomi_sm6150"
+        remote="Aciss21"
+        revision="aosp" />
+    
     <!-- Dolby -->
     <project
         path="vendor/sony/dolby"
